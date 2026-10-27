@@ -1,0 +1,15 @@
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/Debug/net10.0/mario.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/Debug/net10.0/mario.AssemblyInfoInputs.cache
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/Debug/net10.0/mario.AssemblyInfo.cs
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/Debug/net10.0/mario.csproj.CoreCompileInputs.cache
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/Debug/net10.0/mario.sourcelink.json
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/bin/Debug/net10.0/mario
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/bin/Debug/net10.0/mario.deps.json
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/bin/Debug/net10.0/mario.runtimeconfig.json
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/bin/Debug/net10.0/mario.dll
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/bin/Debug/net10.0/mario.pdb
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/Debug/net10.0/mario.dll
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/Debug/net10.0/refint/mario.dll
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/Debug/net10.0/mario.pdb
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/Debug/net10.0/mario.genruntimeconfig.cache
+/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/Debug/net10.0/ref/mario.dll
