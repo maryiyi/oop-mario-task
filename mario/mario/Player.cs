@@ -16,15 +16,12 @@ public class Player
         {
             Score += value;
             Console.WriteLine($"{Name} collected {value}, score = {Score}");
+            
         }
 
         if (value == 0)
         {
             Console.WriteLine($"{Name}: coin already taken");
-        }
-        else
-        {
-            Console.WriteLine("error");
         }
     }
     

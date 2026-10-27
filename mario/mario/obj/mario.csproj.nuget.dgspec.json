@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maria/RiderProjects/CS440-OOP/mario/mario/mario.csproj": {}
+    "/Users/maria/RiderProjects/CS440-OOP/oop-mario-task/mario/mario/mario.csproj": {}
   },
   "projects": {
-    "/Users/maria/RiderProjects/CS440-OOP/mario/mario/mario.csproj": {
+    "/Users/maria/RiderProjects/CS440-OOP/oop-mario-task/mario/mario/mario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maria/RiderProjects/CS440-OOP/mario/mario/mario.csproj",
+        "projectUniqueName": "/Users/maria/RiderProjects/CS440-OOP/oop-mario-task/mario/mario/mario.csproj",
         "projectName": "mario",
-        "projectPath": "/Users/maria/RiderProjects/CS440-OOP/mario/mario/mario.csproj",
+        "projectPath": "/Users/maria/RiderProjects/CS440-OOP/oop-mario-task/mario/mario/mario.csproj",
         "packagesPath": "/Users/maria/.nuget/packages/",
-        "outputPath": "/Users/maria/RiderProjects/CS440-OOP/mario/mario/obj/",
+        "outputPath": "/Users/maria/RiderProjects/CS440-OOP/oop-mario-task/mario/mario/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maria/.nuget/NuGet/NuGet.Config"

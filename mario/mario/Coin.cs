@@ -16,6 +16,7 @@ public class Coin
         {
             return 0;
         }
+        Taken = true;
         return Value;
     }
 
